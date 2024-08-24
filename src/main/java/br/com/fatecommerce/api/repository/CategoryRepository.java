@@ -1,4 +1,4 @@
-package br.com.fatecommerce.api;
+package br.com.fatecommerce.api.repository;
 
 import br.com.fatecommerce.api.entity.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
